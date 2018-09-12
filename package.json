@@ -1,7 +1,7 @@
 {
   "name": "config-lite",
   "description": "A super simple & flexible & intuitive config module.",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test node ./test/test --age=100"
@@ -27,6 +27,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nswbmw/config-lite.git"
+    "url": "https://github.com/jancee/config-lite.git"
   }
 }
