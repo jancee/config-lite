@@ -1,11 +1,15 @@
 ## Improve
 The project comes from https://github.com/nswbmw/config-lite  
 
-And, improvements include: 
+And, improvements include :
 
-1. Support multiple configurations, which are merged rather than configured
+1. Support multiple configurations, which are merged rather than configured.
 
-2. Support to load all sub-configuration items of profile
+2. Support to load all sub-configuration items of profile.
+
+## wjx-config-lite
+
+This extends "config-lite", and improve some functions.
 
 ## config-lite
 
@@ -14,7 +18,7 @@ A super simple & flexible & intuitive config module, support `yaml` & `toml`.
 ### Install
 
 ```bash
-$ npm i config-lite --save
+$ npm i wjx-config-lite --save
 ```
 
 ### Migration

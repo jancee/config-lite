@@ -1,7 +1,7 @@
 {
-  "name": "config-lite",
+  "name": "wjx-config-lite",
   "description": "A super simple & flexible & intuitive config module.",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test node ./test/test --age=100"
